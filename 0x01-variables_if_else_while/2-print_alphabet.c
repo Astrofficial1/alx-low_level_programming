@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - This is a program that prints the alphabet in lowercase, followed by a new line
+ * main - Program prints alphabet in lowercase, followed by a new line:)
  *
  * Return: Always 0.
  */
@@ -15,4 +15,3 @@ int main(void)
 
 	return (0);
 }	
-
