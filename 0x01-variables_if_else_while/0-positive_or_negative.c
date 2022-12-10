@@ -18,6 +18,6 @@ int main(void)
 	else if (n < 0)
 		print("%d iis negativee\n", n);
 	else
-		printf("%d is zero\n", b);
+		printf("%d is zero\n", n);
 	return (0);
 }
